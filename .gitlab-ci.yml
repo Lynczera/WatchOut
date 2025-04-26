@@ -1,0 +1,15 @@
+test-build:
+  stage: build
+  script:
+    - cd WatchOut.API
+    - go build
+
+run-tests:
+  variables: 
+    SECURE_FILES_DOWNLOAD_PATH: './WatchOut.API'
+  stage: test
+  script:
+    - curl --silent "https://gitlab.com/gitlab-org/incubation-engineering/mobile-devops/download-secure-files/-/raw/main/installer" | bash
+    - echo "Running all tests"
+    - cd WatchOut.API
+    - go test ./...

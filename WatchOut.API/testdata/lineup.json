@@ -1,0 +1,168 @@
+[
+{
+"lineupID": "139800",
+"lineupName": "Evoca - Salt Lake City, UT ",
+"lineupType": "CAB",
+"providerID": "584",
+"providerName": "Evoca",
+"serviceArea": " Salt Lake City, UT ",
+"country": "USA",
+"status": "Deleted",
+"replacedWith": ""
+},
+{
+"lineupID": "94865D",
+"lineupName": "Google - Salt Lake City, UT ",
+"lineupType": "CAB",
+"providerID": "484",
+"providerName": "Google Fiber",
+"serviceArea": " Salt Lake City, UT ",
+"country": "USA",
+"status": "Active",
+"replacedWith": ""
+},
+{
+"lineupID": "95567D",
+"lineupName": "Spectrum - Antelope Valley, Edward AFB, CA ",
+"lineupType": "CAB",
+"providerID": "55",
+"providerName": "Spectrum",
+"serviceArea": " Antelope Valley, Edward AFB, CA ",
+"country": "USA",
+"status": "Active",
+"replacedWith": ""
+},
+{
+"lineupID": "6023",
+"lineupName": "Xfinity - Salt Lake City, UT ",
+"lineupType": "CAB",
+"providerID": "57",
+"providerName": "Xfinity - Comcast",
+"serviceArea": " Salt Lake City, UT ",
+"country": "USA",
+"status": "Active",
+"replacedWith": ""
+},
+{
+"lineupID": "6023D",
+"lineupName": "Xfinity - Salt Lake City, UT - Digital",
+"lineupType": "CAB",
+"providerID": "57",
+"providerName": "Xfinity - Comcast",
+"serviceArea": " Salt Lake City, UT ",
+"country": "USA",
+"status": "Active",
+"replacedWith": ""
+},
+{
+"lineupID": "22349",
+"lineupName": "Broadcast - Salt Lake City, UT ",
+"lineupType": "OTA",
+"providerID": "368",
+"providerName": "Broadcast",
+"serviceArea": " Salt Lake City, UT ",
+"country": "USA",
+"status": "Active",
+"replacedWith": ""
+},
+{
+"lineupID": "2381D",
+"lineupName": "DirecTV - National, NY ",
+"lineupType": "SAT",
+"providerID": "195",
+"providerName": "DirecTV",
+"serviceArea": " National, NY ",
+"country": "USA",
+"status": "Active",
+"replacedWith": ""
+},
+{
+"lineupID": "6018D",
+"lineupName": "DirecTV - Salt Lake City, UT ",
+"lineupType": "SAT",
+"providerID": "195",
+"providerName": "DirecTV",
+"serviceArea": " Salt Lake City, UT ",
+"country": "USA",
+"status": "Active",
+"replacedWith": ""
+},
+{
+"lineupID": "2384D",
+"lineupName": "Dish - National, NY ",
+"lineupType": "SAT",
+"providerID": "196",
+"providerName": "Dish Network",
+"serviceArea": " National, NY ",
+"country": "USA",
+"status": "Active",
+"replacedWith": ""
+},
+{
+"lineupID": "6017D",
+"lineupName": "Dish - Salt Lake City, UT ",
+"lineupType": "SAT",
+"providerID": "196",
+"providerName": "Dish Network",
+"serviceArea": " Salt Lake City, UT ",
+"country": "USA",
+"status": "Active",
+"replacedWith": ""
+},
+{
+"lineupID": "139715",
+"lineupName": "fubo - Salt Lake City Area, UT ",
+"lineupType": "VMVPD",
+"providerID": "527",
+"providerName": "fuboTV",
+"serviceArea": " Salt Lake City Area, UT ",
+"country": "USA",
+"status": "Active",
+"replacedWith": ""
+},
+{
+"lineupID": "139539",
+"lineupName": "Hulu Live TV - New York, NY ",
+"lineupType": "VMVPD",
+"providerID": "523",
+"providerName": "Hulu Live TV",
+"serviceArea": " New York, NY ",
+"country": "USA",
+"status": "Active",
+"replacedWith": ""
+},
+{
+"lineupID": "95884D",
+"lineupName": "philo - National",
+"lineupType": "VMVPD",
+"providerID": "537",
+"providerName": "philo",
+"serviceArea": " National",
+"country": "",
+"status": "Active",
+"replacedWith": ""
+},
+{
+"lineupID": "139536",
+"lineupName": "Sling - National",
+"lineupType": "VMVPD",
+"providerID": "528",
+"providerName": "Sling TV",
+"serviceArea": " National",
+"country": "",
+"status": "Active",
+"replacedWith": ""
+},
+{
+"lineupID": "139052",
+"lineupName": "YouTube - Salt Lake City Area, UT ",
+"lineupType": "VMVPD",
+"providerID": "525",
+"providerName": "YouTube TV",
+"serviceArea": " Salt Lake City Area, UT ",
+"country": "USA",
+"status": "Active",
+"replacedWith": ""
+}
+]
+

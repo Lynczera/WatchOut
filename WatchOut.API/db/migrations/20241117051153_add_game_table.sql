@@ -1,0 +1,19 @@
+-- +goose Up
+CREATE TABLE Games (
+    id SERIAL PRIMARY KEY,
+    time TIMESTAMP NOT NULL,
+    type VARCHAR(50) NOT NULL,
+    title VARCHAR(255) NOT NULL,
+    team1 INT NOT NULL,
+    team2 INT NOT NULL,
+    gid INT NOT NULL
+);
+
+ALTER TABLE Games ADD FOREIGN KEY (team1) REFERENCES Teams(tid) ON DELETE CASCADE;  
+ALTER TABLE Games ADD FOREIGN KEY (team2) REFERENCES Teams(tid) ON DELETE CASCADE;  
+ALTER TABLE Games ADD UNIQUE (title, type);  
+ALTER TABLE Games ADD UNIQUE (gid);  
+
+
+-- +goose Down
+DROP TABLE Games;
