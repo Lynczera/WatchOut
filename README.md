@@ -21,8 +21,3 @@ When commiting, we respect the following convention:
 description for the task
 
 ```
-
-### PRS
-Add following reviewers as needed (exclude yourself if applicable)
-- UI : Kai, Aldin, Leo and Austin
-- Backend: Leo and Austin
